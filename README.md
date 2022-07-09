@@ -1,7 +1,7 @@
 
 # Registration Form
 
-Registratin form built using React.js
+Registration form built using React.js
 
 ## Hosted webpage link
 
