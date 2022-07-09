@@ -39,3 +39,8 @@ input:focus,input:valid {
   background: rgb(255, 255, 255) !important;
 }
 
+
+.btn:focus{
+  outline: none !important;
+  box-shadow: none !important;
+}

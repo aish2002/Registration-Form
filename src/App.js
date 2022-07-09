@@ -40,7 +40,7 @@ function App() {
     <Col md="4" xs="6" className="align-items-center column" >
         
           <Form  noValidate className="mt-4 input"  validated={validated} onSubmit={handleSignIn}>
-            <Form.Group controlId="valid1">
+            <Form.Group controlId="valid1" >
           <Form.Control className="input"
               placeholder="Name"
               name="name"
